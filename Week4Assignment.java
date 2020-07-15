@@ -1,3 +1,4 @@
+// Code reviewed by @professorgordon
 // Hannah McBeth
 import java.lang.Math;
 import java.util.Scanner;
